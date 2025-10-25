@@ -37,13 +37,9 @@ CVD model: Accuracy 84.9% • AUC 0.XX • DP diff reduced from X → Y
 
 Driver detector: Accuracy >90% • Mean inference latency: Z ms
 
-📸 Socials & contact:
 
-💼 LinkedIn: https://linkedin.com/in/mohammed-rayyan-angadi
 
-🐙 GitHub: https://github.com/rayyanmd06
 
-📧 Email: rayyanmd.professional@gmail.com
 
-📷 Instagram: https://instagram.com/the.sleepy.headd
+
 
