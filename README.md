@@ -26,9 +26,9 @@ I build production-ready ML systems with a focus on fairness and low-latency inf
 
 ## 🚀 Featured project (click to open)
 ### 1. Fairness-Aware ML — Cardiovascular Risk❤️ 
-
 **TL;DR:** End-to-end pipeline for CVD risk prediction — strong accuracy while reducing gender bias using Fairlearn. Includes notebooks, model artifacts, and a Streamlit demo.  
 **Highlights:** `84.9% accuracy` · Fairlearn (Exponentiated Gradient + Demographic Parity) · Streamlit dashboard
+
 **Repo:** https://github.com/rayyanmd06/cvd-risk-prediction-using-fairnessmodel  
 
 
