@@ -28,14 +28,14 @@ I build production-ready ML systems with a focus on fairness and low-latency inf
 ### 1. Fairness-Aware ML — Cardiovascular Risk❤️ 
 
 **TL;DR:** End-to-end pipeline for CVD risk prediction — strong accuracy while reducing gender bias using Fairlearn. Includes notebooks, model artifacts, and a Streamlit demo.  
-**Highlights:** `84.9% accuracy` · Fairlearn (Exponentiated Gradient + Demographic Parity) · Streamlit dashboard ·
+**Highlights:** `84.9% accuracy` · Fairlearn (Exponentiated Gradient + Demographic Parity) · Streamlit dashboard
 **Repo:** https://github.com/rayyanmd06/cvd-risk-prediction-using-fairnessmodel  
 
 
 ### 2. **Real-Time Driver Sleepiness Detection**
 - **What:** Simulator-driven pipeline (Unity3D) + low-latency inference path.  
 - **Why it matters:** Improves road safety with fast, reliable alerts.  
-- **Highlights:** >90% detection accuracy • <500 ms alarm latency • Python-Unity socket integration.  
+- **Highlights:** >90% detection accuracy • <500 ms alarm latency • Python-Unity socket integration.
 - **Repo:**(https://github.com/rayyanmd06/Driver-sleepiness-detection/blob/main/README.md)
 
 ---
