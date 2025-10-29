@@ -36,7 +36,7 @@ I build production-ready ML systems with a focus on fairness and low-latency inf
 - **What:** Simulator-driven pipeline (Unity3D) + low-latency inference path.  
 - **Why it matters:** Improves road safety with fast, reliable alerts.  
 - **Highlights:** >90% detection accuracy • <500 ms alarm latency • Python-Unity socket integration.
-- **Repo:**(https://github.com/rayyanmd06/Driver-sleepiness-detection/blob/main/README.md)
+- **Repo:**https://github.com/rayyanmd06/Driver-sleepiness-detection/blob/main/README.md
 
 ---
 📈 Benchmarks
