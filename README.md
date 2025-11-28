@@ -55,7 +55,7 @@ I build production-ready ML systems with a focus on fairness and low-latency inf
 - 📋 Generates detailed **INTERVIEW FEEDBACK** (strengths, weaknesses, overall score, and improvement plan).  
 - 💻 Tech: **FastAPI · Web Speech API · gTTS · Python · HTML/CSS/JS** with a glassmorphism UI over a video background.
 
-**Repo:** `(https://github.com/rayyanmd06/Ai-Interview)` 😄
+**Repo:** (https://github.com/rayyanmd06/Ai-Interview) 😄
 
 ---
 
