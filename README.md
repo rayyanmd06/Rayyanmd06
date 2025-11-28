@@ -44,6 +44,19 @@ I build production-ready ML systems with a focus on fairness and low-latency inf
 - **Highlights:** >90% detection accuracy • <500 ms alarm latency • Python-Unity socket integration.
 - **Repo:** https://github.com/rayyanmd06/Driver-sleepiness-detection/blob/main/README.md
 
+
+### 3. 🎙️ AI Interview Partner – Real-Time Voice Interview Coach  
+**TL;DR:** Built a **voice-first AI interview agent** that conducts realistic mock interviews, listens to answers via mic, and gives **structured, actionable feedback** at the end.
+
+**Highlights:**  
+- 🧠 Uses **LLM-powered interviewer logic** to ask role-specific questions (e.g. *“Sales Developer”*, *“Python Developer”*).  
+- 🎤 **Real-time voice interface** with continuous listening + push-to-talk style UX.  
+- 🗣️ Text-to-Speech + Speech-to-Text pipeline for fully conversational interviews in the browser.  
+- 📋 Generates detailed **INTERVIEW FEEDBACK** (strengths, weaknesses, overall score, and improvement plan).  
+- 💻 Tech: **FastAPI · Web Speech API · gTTS · Python · HTML/CSS/JS** with a glassmorphism UI over a video background.
+
+**Repo:** `Coming soon – DM me on LinkedIn if you want early access or a demo!` 😄
+
 ---
 📈 Benchmarks
 
