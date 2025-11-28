@@ -46,7 +46,7 @@ I build production-ready ML systems with a focus on fairness and low-latency inf
 
 
 ### 3. 🎙️ AI Interview Partner – Real-Time Voice Interview Coach  
-**TL;DR:** Built a **voice-first AI interview agent** that conducts realistic mock interviews, listens to answers via mic, and gives **structured, actionable feedback** at the end.
+** Built a **voice-first AI interview agent** that conducts realistic mock interviews, listens to answers via mic, and gives **structured, actionable feedback** at the end.
 
 **Highlights:**  
 - 🧠 Uses **LLM-powered interviewer logic** to ask role-specific questions (e.g. *“Sales Developer”*, *“Python Developer”*).  
@@ -55,14 +55,9 @@ I build production-ready ML systems with a focus on fairness and low-latency inf
 - 📋 Generates detailed **INTERVIEW FEEDBACK** (strengths, weaknesses, overall score, and improvement plan).  
 - 💻 Tech: **FastAPI · Web Speech API · gTTS · Python · HTML/CSS/JS** with a glassmorphism UI over a video background.
 
-**Repo:** `Coming soon – DM me on LinkedIn if you want early access or a demo!` 😄
+**Repo:** `(https://github.com/rayyanmd06/Ai-Interview)` 😄
 
 ---
-📈 Benchmarks
-
-CVD model: Accuracy 84.9% • AUC 0.XX • DP diff reduced from X → Y
-
-Driver detector: Accuracy >90% • Mean inference latency: Z ms
 
 
 
