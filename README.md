@@ -47,7 +47,7 @@ I build production-ready ML systems with a focus on fairness and low-latency inf
 
 
 ### 3. 🎙️ AI Interview Partner – Real-Time Voice Interview Coach  
-** Built a **voice-first AI interview agent** that conducts realistic mock interviews, listens to answers via mic, and gives **structured, actionable feedback** at the end.
+Built a **voice-first AI interview agent** that conducts realistic mock interviews, listens to answers via mic, and gives **structured, actionable feedback** at the end.
 
 **Highlights:**  
 - 🧠 Uses **LLM-powered interviewer logic** to ask role-specific questions (e.g. *“Sales Developer”*, *“Python Developer”*).  
