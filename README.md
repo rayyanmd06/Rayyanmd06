@@ -2,7 +2,7 @@
 <div align="center">
 
 # 👋 Hiii, I’m **Mohammed Rayyan**
-**AI Engineer-in-training • BSc CSBS (Jain University ’26)**  
+**AI Engineer-in-training • B-Tech CSBS (Jain University ’26)**  
 I build production-ready ML systems with a focus on fairness and low-latency inference.  
 🔭 Currently polishing demos & deploying a fairness-aware CVD model and a real-time driver sleepiness detector.
 
